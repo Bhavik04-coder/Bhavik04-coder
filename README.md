@@ -9,13 +9,13 @@
 - Languages: Python, JavaScript, C++
 - Web: HTML, CSS, Flask, React
 - Database: MySQL, Supabase
-- Tools: Git, Docker
+- Tools: Git
 
 ## Projects
 - 🐄 PashuCare – Animal health diagnosis system
-- 📊 Smart Placement Portal
 - 🌾 AgriLease – Farm equipment rental platform
-
+- 👾 Dynamic Game Leaderboard Using red black tree
+- 
 ## Connect
-- LinkedIn: …
-- Email: …
+- LinkedIn:www.linkedin.com/in/bhavik-dumore-36711b330
+- Email:bahvik.dumore24@vit.edu
